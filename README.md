@@ -1,8 +1,6 @@
 # Shells
 - [xmonad](https://github.com/vlafmeister/Shells/tree/main/xmonad)
 - [Gnome](https://github.com/vlafmeister/Shells/tree/main/Gnome/Gnome_arch)
-- [openbox]()
-- [i3]()
 - [XFCE]()
 - [dwm]()
 - [bspwm]()
