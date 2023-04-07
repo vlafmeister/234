@@ -3,6 +3,8 @@
 - [Gnome](https://github.com/vlafmeister/Shells/tree/main/Gnome/Gnome_arch)
 - [XFCE]()
 - [dwm]()
+- [openbox nature](https://github.com/vlafmeister/Shells/tree/main/openbox/openbox_nature)
+- [openbox star wars](https://github.com/vlafmeister/Shells/tree/main/openbox/openbox_star_wars)
 - [bspwm]()
 - [Newm nord]()
 - [Hyperland Void]()
