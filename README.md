@@ -10,4 +10,4 @@
 - [Hyperland Void]()
 - [Hypr Arch]()
 - [Hypr deep blue]()
-- [fonts]()
+- [fonts](https://github.com/vlafmeister/Shells/tree/main/fonts)
