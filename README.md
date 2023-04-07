@@ -1,8 +1,9 @@
 # Shells
 - [xmonad](https://github.com/vlafmeister/Shells/tree/main/xmonad)
 - [Gnome](https://github.com/vlafmeister/Shells/tree/main/Gnome/Gnome_arch)
-- [XFCE]()
-- [dwm]()
+- [XFCE](https://github.com/vlafmeister/Shells/tree/main/XFCE)
+- [dwm](https://github.com/vlafmeister/Shells/tree/main/dwm/dwm_1)
+- [dwm breeze](https://github.com/vlafmeister/Shells/tree/main/dwm/dwm_breeze)
 - [openbox nature](https://github.com/vlafmeister/Shells/tree/main/openbox/openbox_nature)
 - [openbox star wars](https://github.com/vlafmeister/Shells/tree/main/openbox/openbox_star_wars)
 - [bspwm]()
