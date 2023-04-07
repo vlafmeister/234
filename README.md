@@ -1,4 +1,5 @@
 # Shells
+P.s I will finish it soon
 - [xmonad](https://github.com/vlafmeister/Shells/tree/main/xmonad)
 - [Gnome](https://github.com/vlafmeister/Shells/tree/main/Gnome/Gnome_arch)
 - [XFCE](https://github.com/vlafmeister/Shells/tree/main/XFCE)
