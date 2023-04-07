@@ -73,12 +73,12 @@ makepkg -si
 ```
 
 ## GNOME SHELL EXTENSION
-[ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
-[Auto Move Windows](https://extensions.gnome.org/extension/16/auto-move-windows/)
-[User Themes](https://extensions.gnome.org/extension/19/user-themes/)
-[Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)
-[EasyScreenCast](https://extensions.gnome.org/extension/690/easyscreencast/)
-[Aylur's Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
-[Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
+- [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
+- [Auto Move Windows](https://extensions.gnome.org/extension/16/auto-move-windows/)
+- [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
+- [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)
+- [EasyScreenCast](https://extensions.gnome.org/extension/690/easyscreencast/)
+- [Aylur's Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
+- [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
 
-[Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
+- [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
