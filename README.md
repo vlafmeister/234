@@ -1,1 +1,12 @@
 # 234
+- [xmonad]()
+- [Gnome]()
+- [openbox]()
+- [i3]()
+- [XFCE]()
+- [dwm]()
+- [bspwm]()
+- [Newm nord]()
+- [Hyperland Void]()
+- [Hypr Arch]()
+- [Hypr deep blue]()
