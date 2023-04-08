@@ -1,4 +1,4 @@
-# Shells
+# Vlaf-dotfiles
 P.s I will finish it soon
 - [xmonad](https://github.com/vlafmeister/Shells/tree/main/xmonad)
 - [Gnome](https://github.com/vlafmeister/Shells/tree/main/Gnome/Gnome_arch)
